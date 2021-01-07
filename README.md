@@ -1,7 +1,7 @@
 # SmartSafe
-T.M. Syahril Nur A    | 1808107010032
+T.M. Syahril Nur Alamsyah | 1808107010032
 
-Hokky Chandra Wiguna  | 1808107010033
+Hokky Chandra Wiguna      | 1808107010033
 
 Design Patterns Yang Digunakan :
 - Iterator Pattern
